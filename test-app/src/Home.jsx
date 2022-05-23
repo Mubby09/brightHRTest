@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import { Data } from "./Data.js"
 import { useState } from "react"
